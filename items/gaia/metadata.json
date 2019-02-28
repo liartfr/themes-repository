@@ -1,0 +1,37 @@
+{
+	"name": "Gaia",
+	"version": "3.8",
+	"author_username": "Liartfr",
+	"release_date": "2019-02-28",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "http://www.liart.fr/downlads/bl-themes/gaia.zip",
+	"demo_url": "http://www.Liart.fr",
+	"information_url": "http://www.liart.fr/bl-themes/Gaia/readme.txt",
+	"credits": "",
+	"credits_url": "",
+	"description": "Simple theme with caroussel of sticky content",
+	"features": {
+		"0": "This current theme put each sticky content into a carousel.",
+		"1": "You have to put a cover img for each sticky news & a description.",
+		"2": "if you'r not doing this, you will see a default img & description."
+	},
+	"description_de": "_DESCRIPTION_FRENCH_",
+	"features_fr": {
+		"0": "Ce theme met les contenu épinglés dans un carousel",
+		"1": "vous devez définir une image attaché à l'article ainsi qu'une description",
+		"2": "Si vous ne le faites pas, vous aurez une image par defaut et une description egalement"
+	},
+	"description_es": "_DESCRIPTION_SPANISH_",
+	"features_es": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_ru": "_DESCRIPTION_RUSSIAN_",
+	"features_ru": {
+		"0": "",
+		"1": "",
+		"2": ""
+	}
+}
