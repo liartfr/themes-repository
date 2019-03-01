@@ -1,0 +1,19 @@
+{
+  "name": "Gaia",
+  "version": "3.8.0",
+  "release_date": "2019-02-28",
+  "license": "MIT",
+  "price_usd": "0",
+  "download_url": "https://www.liart.fr/downloads/bl-themes/Gaia.zip",
+  "demo_url": "https://www.liart.fr",
+  "information_url": "https://blthemes.pp.ua/blekathlon/blekathlon-info",
+  "credits": "Liartfr",
+  "credits_url": "",
+  "description": "Simple theme with caroussel of sticky content",
+  "features": {
+    "0": "This current theme put each sticky content into a carousel.",
+    "1": "You have to put a cover img for each sticky news & a description.",
+    "2": "if you'r not doing this, you will see a default img & description.",
+  },
+  "author_username": "liartfr"
+}
